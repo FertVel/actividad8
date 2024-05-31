@@ -3,3 +3,5 @@ Git push envía la versión local al repositorio distribuido.
 Git pull copia la versión actual de un repositorio desde la nube a uno local.
 Git branch genera ramas de un repositorio local o permite ver las ya existentes.
 Git switch permite intercalar entre ramas del repositorio.
+
+Git merge fusiona el contenido de otra rama con la rama actual.
