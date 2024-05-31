@@ -1,0 +1,5 @@
+git clone: clonar un repositorio 
+git push: guardar los cambios en el repositorio
+git pull: 
+git branch:  
+git switch:
